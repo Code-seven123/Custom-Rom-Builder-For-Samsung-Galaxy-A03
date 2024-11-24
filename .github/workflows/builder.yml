@@ -14,11 +14,11 @@ on:
         NAME:
               description: 'Rom Name'
               required: true
-              default: 'aosp-arm64-ab-gapps-14.0-a03.7z'
+              default: 'AOSP-14.0-A032F-arm64-gapps.7z'
         VERSION:
               description: 'Baseband Version'
               required: true
-              default: 'A035FXXU4CWI1'
+              default: 'A032FXXU4CWI8'
         VENDOR:
               description: 'Enter Direct Link Of Your Version Vendor'
               required: true
