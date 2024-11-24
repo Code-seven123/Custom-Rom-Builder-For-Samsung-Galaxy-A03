@@ -10,7 +10,7 @@ on:
         GSI:
               description: ' GSI Image Direct Link '
               required: true
-              default: 'https://github.com/ponces/treble_build_aosp/releases/download/v2023.12.01/aosp-arm64-ab-gapps-14.0-20231201.img.xz'        
+              default: 'https://objects.githubusercontent.com/github-production-release-asset-2e65be/413958098/8c0cf89e-f99a-4457-8e32-72c0cb857f6b?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20241124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241124T125505Z&X-Amz-Expires=300&X-Amz-Signature=635f1590eb7b3e5206d55a3c23e24489748a2a4817e4c24bc9b3932619e1f94d&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Daosp-arm64-ab-vanilla-15.0-20241108.img.xz'        
         NAME:
               description: 'Rom Name'
               required: true
