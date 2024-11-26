@@ -10,7 +10,7 @@ on:
         GSI:
               description: ' GSI Image Direct Link '
               required: true
-              default: 'https://sourceforge.net/projects/andyyan-gsi/files/lineage-19.x/lineage-19.1-20241019-UNOFFICIAL-a64_bgN-signed.img.gz'     
+              default: 'https://sourceforge.net/projects/andyyan-gsi/files/lineage-18.x/lineage-18.1-20240121-UNOFFICIAL-a64_bgS.img.xz'     
         NAME:
               description: 'Rom Name'
               required: true
