@@ -10,11 +10,11 @@ on:
         GSI:
               description: ' GSI Image Direct Link '
               required: true
-              default: 'https://sourceforge.net/projects/andyyan-gsi/files/lineage-18.x/lineage-18.1-20240121-UNOFFICIAL-a64_bgS-vndklite.img.xz'   
+              default: https://sourceforge.net/projects/andyyan-gsi/files/lineage-18.x/lineage-18.1-20240121-UNOFFICIAL-a64_boS.img.xz'   
         NAME:
               description: 'Rom Name'
               required: true
-              default: 'LineageOS-18.1-A032F-a64-gapps.7z'
+              default: 'LineageOS-18.1-A032F-a64-gappsgo.7z'
         VERSION:
               description: 'Baseband Version'
               required: true
