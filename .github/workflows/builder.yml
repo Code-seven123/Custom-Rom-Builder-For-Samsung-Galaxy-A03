@@ -14,7 +14,7 @@ on:
         NAME:
               description: 'Rom Name'
               required: true
-              default: 'LineageOS-20.0-A032F-arm64-vanilla.7z'
+              default: 'LineageOS-19.x-A032F-arm64-vanilla.7z'
         VERSION:
               description: 'Baseband Version'
               required: true
