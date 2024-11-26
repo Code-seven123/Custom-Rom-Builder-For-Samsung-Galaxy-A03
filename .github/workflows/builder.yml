@@ -14,7 +14,7 @@ on:
         NAME:
               description: 'Rom Name'
               required: true
-              default: 'LineageOS-19.x-A032F-a64-gapps.7z'
+              default: 'LineageOS-18.1-A032F-a64-gapps.7z'
         VERSION:
               description: 'Baseband Version'
               required: true
